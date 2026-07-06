@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="convert_hex_to_base64/convert_hex_to_base64.vcxproj" />
-</Solution>
