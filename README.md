@@ -12,3 +12,5 @@ The program fermat_factorisation_algorithm applies the obvious algorithm to an i
 - declares N to be even;
 - exhibits a nontrivial factorisation of N;
 - states that Fermat factorisation failed in the given bound on atttempts.
+
+The program convert_hex_to_base64 reads a hex input (as .bin) and converts the string to base64.
