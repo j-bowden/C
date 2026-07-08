@@ -23,4 +23,6 @@ The program single_byte_XOR_cipher performs a brute-force decryption attempt on 
 
 The program detect_single_character_XOR builds on single_byte_XOR_cipher to determine (based on the same metric as above) which of the hix ciphertext of an input .txt file (which it reads in) is most likely from a single-byte XOR cipher, and outputs the corresponding most probable plaintext (by the same metric). This is Challenge 4, Set 1 of the cryptopals challenges.
 
-The program repeated_key_XOR reads a hex input buffer and key where now, unlike in fixed_xor_hex_input, the key may be repeated (or indeed exceed the length of the buffer), again acting only on raw bytes. This is Challenge 5, Set 1 of cryptopals challenges.
+The program repeated_key_XOR reads a hex input buffer and key where now, unlike in fixed_xor_hex_input, the key may be repeated (or indeed exceed the length of the buffer), again acting only on raw bytes. This is Challenge 5, Set 1 of the cryptopals challenges.
+
+The program break_repeating_key_XOR executes challenge 6, Set 1 of the cryptopals challenges.
