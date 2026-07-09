@@ -47,6 +47,10 @@ The program break_repeating_key_XOR executes Challenge 6, Set 1 of the cryptopal
 
 ----------------------------------------
 
+The program AES_in_ECB executes Challenge 7, Set 1 of the cryptopals challenges.
+
+----------------------------------------
+
 The program pkcs#7_padding executes Challenge 9, Set 2 of the cryptopals challenges.
 
 ----------------------------------------
