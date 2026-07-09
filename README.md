@@ -43,6 +43,10 @@ The program repeated_key_XOR reads a hex input buffer and key where now, unlike 
 
 ----------------------------------------
 
-The program break_repeating_key_XOR executes challenge 6, Set 1 of the cryptopals challenges.
+The program break_repeating_key_XOR executes Challenge 6, Set 1 of the cryptopals challenges.
+
+----------------------------------------
+
+The program pkcs#7_padding executes Challenge 9, Set 2 of the cryptopals challenges.
 
 ----------------------------------------
