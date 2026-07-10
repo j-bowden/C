@@ -54,3 +54,7 @@ The program AES_in_ECB executes Challenge 7, Set 1 of the cryptopals challenges.
 The program pkcs#7_padding executes Challenge 9, Set 2 of the cryptopals challenges.
 
 ----------------------------------------
+
+The program CBC_mode executes Challenge 10, Set 2 of the cryptopals challenges, as well as the option for the corresponding encryption.
+
+----------------------------------------
