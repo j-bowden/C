@@ -58,3 +58,7 @@ The program pkcs#7_padding executes Challenge 9, Set 2 of the cryptopals challen
 The program CBC_mode executes Challenge 10, Set 2 of the cryptopals challenges, as well as the option for the corresponding encryption.
 
 ----------------------------------------
+
+The program ECB_slash_CBC_detection_oracle executes Challenge 11, Set 2 of the cryptopals challenges.
+
+----------------------------------------
